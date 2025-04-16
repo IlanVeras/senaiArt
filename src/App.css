@@ -1,0 +1,6 @@
+/* style.module.css global (ou App.css se tiver) */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
