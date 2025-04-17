@@ -4,11 +4,17 @@
 }
 
 .galeria{
-    /* display: flex; */
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    gap: 1rem;
-    width: max-content; /* ocupa só o espaço necessário */
-    margin: 0 auto;     /* centraliza horizontalmente */
-  
+    gap: 2rem;
+    justify-content: center;
+    width: max-content; 
+    margin: 0 auto;     
+}
+
+@media only screen and (max-width: 600px){
+    .galeria{
+        grid-template-columns: 1fr;
+    }
+
 }

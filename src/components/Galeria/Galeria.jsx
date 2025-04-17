@@ -54,6 +54,7 @@ export default function Galeria() {
                     image={obra.image} 
                     autor={obra.autor}
                     data={obra.data}
+                    className={`${styles.card}`}
                     />
                 )
             })
