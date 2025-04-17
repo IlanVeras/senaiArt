@@ -8,7 +8,7 @@ export default function Card({image, nome, autor, data}) {
              <h5 className="card-title">{nome}</h5>
             <p className="card-text">Por {autor}</p>
             <p className='card-text'>Realizada em {data}</p>
-            <a href="#" className="btn btn-dark">Go somewhere</a>
+            <a href="#" className="btn btn-dark">Detalhes</a>
         </div>
     </div>
   )
