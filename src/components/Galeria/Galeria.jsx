@@ -12,24 +12,24 @@ const obras = [
     {
         image: "/assets/g_2.jpg",
         nome: "Obra de Arthur",
-        autor: "Arthur",
+        autor: "Amanda",
         data: "09/12/2020"
     },
     {
         image: "/assets/g_3.jpg",
         nome: "Obra de Arthur",
-        autor: "Arthur",
+        autor: "Ingrid",
         data: "13/03/2023"
     },
     {
         image: "/assets/g_4.jpg",
-        nome: "Obra de Arthur",
+        nome: "Obra de Lucas",
         autor: "Arthur",
         data: "07/11/1999"
     },
     {
         image: "/assets/g_5.jpg",
-        nome: "Obra de Arthur",
+        nome: "Obra de Maria",
         autor: "Arthur",
         data: "27/01/2014"
     },
