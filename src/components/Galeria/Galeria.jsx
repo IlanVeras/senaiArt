@@ -4,37 +4,37 @@ import styles from "./styles.module.css"
 
 const obras = [
     {
-        image: "../src/assets/g_1.jpg",
+        image: "/assets/g_1.jpg",
         nome: "Obra de Arthur",
         autor: "Arthur",
         data: "28/06/2003"
     },
     {
-        image: "../src/assets/g_2.jpg",
+        image: "/assets/g_2.jpg",
         nome: "Obra de Arthur",
         autor: "Arthur",
         data: "09/12/2020"
     },
     {
-        image: "../src/assets/g_3.jpg",
+        image: "/assets/g_3.jpg",
         nome: "Obra de Arthur",
         autor: "Arthur",
         data: "13/03/2023"
     },
     {
-        image: "../src/assets/g_4.jpg",
+        image: "/assets/g_4.jpg",
         nome: "Obra de Arthur",
         autor: "Arthur",
         data: "07/11/1999"
     },
     {
-        image: "../src/assets/g_5.jpg",
+        image: "/assets/g_5.jpg",
         nome: "Obra de Arthur",
         autor: "Arthur",
         data: "27/01/2014"
     },
     {
-        image: "../src/assets/g_6.jpg",
+        image: "/assets/g_6.jpg",
         nome: "Obra de Arthur",
         autor: "Arthur",
         data: "30/09/2022"
