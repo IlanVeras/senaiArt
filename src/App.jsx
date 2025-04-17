@@ -3,6 +3,9 @@ import './App.css'
 import Logo from './components/Logo/Logo'
 import Navbar from './components/Navbar/Navbar'
 import Capa from './components/Capa/Capa'
+import Footer from './components/Footer/Footer'
+import Card from './components/Card/Card'
+import Galeria from './components/Galeria/Galeria'
 
 function App() {
 
@@ -16,9 +19,11 @@ function App() {
 
       <main>
         <Capa/>
+        <Galeria/>
       </main>
 
       <footer>
+        <Footer/>
       </footer>
     </>
   )

@@ -1,0 +1,17 @@
+
+
+.container{
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.socials{
+    justify-content: space-around;
+}
+
+.container img{
+    width: 20px;
+    margin: 20px;
+}
